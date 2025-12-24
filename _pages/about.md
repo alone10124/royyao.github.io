@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Roy Yao"
 author_profile: true
 layout: home
 redirect_from: 
